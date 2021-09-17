@@ -24,7 +24,7 @@ def Left_Motor_Backward(rbackward):
 	if rbackward == True:
 		s2.angle = -90
 		sleep(500)
-
+#fuck
 # FUCK
 @app.route("/lft")
 	lforward = True
